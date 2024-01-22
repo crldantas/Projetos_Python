@@ -1,2 +1,4 @@
 
 *.json
+projeto_gb/access.py
+projeto_gb/.env
